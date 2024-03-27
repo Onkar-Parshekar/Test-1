@@ -103,7 +103,7 @@ function App() {
                   <TableCell>
                     <strong>Country</strong>
                   </TableCell>
-                  <TableCell align="right">
+                  <TableCell align="left">
                     <strong>Flag</strong>
                   </TableCell>
                   <TableCell align="right">
