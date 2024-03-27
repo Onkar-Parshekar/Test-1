@@ -106,10 +106,10 @@ function App() {
                   <TableCell align="left">
                     <strong>Flag</strong>
                   </TableCell>
-                  <TableCell align="top">
+                  <TableCell align="right">
                     <strong>Capital</strong>
                   </TableCell>
-                  <TableCell align="bottom">
+                  <TableCell align="right">
                     <strong>Population</strong>
                   </TableCell>
                   <TableCell align="right">
