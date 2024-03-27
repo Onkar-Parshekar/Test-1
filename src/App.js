@@ -126,8 +126,8 @@ function App() {
                     <TableCell align="right">
                       <img src={country.flag} alt="" width="32px" />
                     </TableCell>
-                    <TableCell align="right">{country.capital}</TableCell>
-                    <TableCell align="right">{country.population}</TableCell>
+                    <TableCell align="left">{country.capital}</TableCell>
+                    <TableCell align="left">{country.population}</TableCell>
                     <TableCell align="right">{country.region}</TableCell>
                   </TableRow>
                 ))}
